@@ -1,4 +1,5 @@
 # GizmoBypasser
+## 2 Versions Released, will only get updated if patched.
 Currently what you can call the only tool allowing Free stay at internet cafe's managed by the [Gizmo Software](https://www.gizmopowered.net/) ,
 which this tool was meant as hatred towards how limiting Gizmo's software really is on the fun side, but "secure" side, you have full access to everything easily.
 
