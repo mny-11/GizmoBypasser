@@ -7,7 +7,7 @@ Also meant as hatred towards most internet cafe staff being extremely unprofessi
 widely spread across the local country among teenagers in that cafe, not everyone plays valorant, if you don't like it thats understandable, but not becoming
 the only topic they talk about.
 
-And also made as how **greedy** of a company Gizmo really is, having cafe staff pay an entire euro per PC in every single indivdual country,
+And also made as how **greedy** of a company Gizmo really is, having cafe owners pay an entire euro per PC in every single indivdual country (instead of simple subscriptions/onetimepurchases),
 making internet cafe's a thing of the past, and the only ones that stay are extremely overpriced.
 
 This tool guarantees you full unlimited time access, and i will keep developing it as long as we don't have issues,
