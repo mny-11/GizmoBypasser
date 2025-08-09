@@ -16,4 +16,4 @@ which we wont as we use [the MIT license.](https://choosealicense.com/licenses/m
 
 
 - Use of this tool is at **YOUR OWN consent & YOUR OWN risk.**
-- We hold **no** legal responsibility OR **liability** against any malicious acts done by the software.
+- We hold **no** legal responsibility **NOR** liability against any malicious acts done by the software.
